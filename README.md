@@ -7,7 +7,6 @@ Personal technical notes, references, and things worth remembering while learnin
 - [INDEX.md](INDEX.md): every note, grouped by topic
 - [ROADMAP.md](ROADMAP.md): what's written, what's in progress, what's planned
 - [CHANGELOG.md](CHANGELOG.md): what changed and when
-- [LINKEDIN.md](LINKEDIN.md): ways of mentioning this repository
 
 ## Why this exists
 
